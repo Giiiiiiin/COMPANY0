@@ -1,0 +1,4 @@
+<Chant N/A>
+
+A spell that uses mana to be cast, but uses resolve as its power. 
+It channels the caster's resolve and shapes it by reinforcing the target's defensive power and tenacity. 

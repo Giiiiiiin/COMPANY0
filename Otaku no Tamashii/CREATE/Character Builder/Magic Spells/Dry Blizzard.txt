@@ -1,0 +1,10 @@
+Requirements: Dimensional Layer, Terra Decay, Structural Synthesis
+
+"A"
+
+High-tier earth magic that creates a storm of dust and sand 
+that can be freely manipulated by the caster and is infinitely
+sustaiable by the caster's mana. Meaning it can create as much
+dust and sand from thin air so long as the caster has mana.
+
+Maintaining conditions: sufficient mana & the presence of at least one grain of sand or dust

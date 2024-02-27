@@ -1,0 +1,3 @@
+""
+
+Creates an area of ashes and cinder. Mostly used to set up other magic. Can be attatched to someone

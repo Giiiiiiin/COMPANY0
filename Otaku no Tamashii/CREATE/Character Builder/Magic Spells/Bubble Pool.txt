@@ -1,0 +1,3 @@
+“*O Water, swamp the uncharted lands and claim your new heart. Solidify your body and usher in the emergence of a mighty sea. Bubble Pool!*”
+
+Traps a target in a bubble of water that slowly expands depending on user

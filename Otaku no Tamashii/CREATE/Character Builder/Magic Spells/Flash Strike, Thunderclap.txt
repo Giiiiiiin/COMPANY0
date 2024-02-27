@@ -1,0 +1,1 @@
+Charges the user's weapon with lightning magic and uses flash strike mid-swing to reposition.

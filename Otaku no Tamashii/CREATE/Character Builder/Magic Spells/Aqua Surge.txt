@@ -1,0 +1,5 @@
+“O Water, I call for your headspring, the origin of life. Flow with my word to bring upon judgment to those who defile thee. 
+Aqua Surge!”
+
+An AoE attack that summons a geyser on the desired target. It is a powerful attack used to disable targets but not enough to
+deal heavy damage.

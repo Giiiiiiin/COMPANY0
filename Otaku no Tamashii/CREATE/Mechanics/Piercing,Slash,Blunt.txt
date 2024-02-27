@@ -1,0 +1,11 @@
+Slash strong against: cloth, padding, and no armour
+
+Piercing strong against: chain links, padding, and cloth; in skilled hands it's good against stronger armours while aiming for weak points.
+
+Blunt\strike strong against: stronger armours, but not as good against thick padding.
+
+Depending on what it is, ranged weapons can be either blunt or piercing.
+
+I'm likely missing some other things those types are strong against, but you can apply these basics to not only armour wearing beings, but to various creatures\monsters. Perhaps a monster has a lot of blubber\fat that acts as a shock absorber, thus making it strong against blunt attacks; making maces and warhammers ineffective against it.
+
+Scales might be weak against blunt force or piercing, depending on how the scales are set on the creature; blunt force would cause damage to internal organs without breaking the skin, where as piercing weapons might be used (in trained hands) to attack weak spots.

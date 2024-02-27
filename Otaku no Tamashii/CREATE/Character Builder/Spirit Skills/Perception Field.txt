@@ -1,0 +1,2 @@
+Creates a field around a target that senses movement and acts like a radar for the caster.
+Its minimum range is 5 meters.

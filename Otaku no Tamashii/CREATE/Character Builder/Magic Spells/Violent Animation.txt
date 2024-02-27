@@ -1,0 +1,6 @@
+"A"
+
+Mid-tier nature magic that spreads a red smoke that turns nearby flora to come to life and
+agress on the caster's targets. If there are none and they are not stopped by the caster,
+they will kill anything nearby with life, plants excluded. This only lasts until either the
+caster cuts off the magic or runs out of mana.

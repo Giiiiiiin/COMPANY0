@@ -1,0 +1,7 @@
+Created by immbedding an item with spirit power to create a vessel
+Writting a character on the vessel to order it to perform an action
+Applying enhancers in order to manipulate the talisman's output or give it specific orders
+
+	Barrier Talismans - A tool used for defense or confinement. The user can control who can and cannot cross the barrier.
+			    Can be strengthened by connecting to other barrier talismans
+	

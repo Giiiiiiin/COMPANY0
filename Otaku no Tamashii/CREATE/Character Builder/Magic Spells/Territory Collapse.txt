@@ -1,0 +1,3 @@
+"A"
+
+Mid-tier spell that arbitrarily destroys the surrounding area unless specified by the user

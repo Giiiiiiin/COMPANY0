@@ -1,0 +1,3 @@
+""
+
+Control Magic that empties essentials for life in a certain area like food nutrients, energy, and air.

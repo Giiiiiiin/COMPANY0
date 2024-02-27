@@ -1,0 +1,10 @@
+Name derived from the Zeldian meaniing Resonate Link
+
+At first appearance, it is a stone with wavy pattern but possesses a smooth texture. 
+When mana is applied to it, its dark shades will glow pink and purple and begin shaking.
+If the stone goes away from the south, the shaking will become stronger.
+If the stone gets closer to the south, the shaking will begin to weaken.
+The cause of the shaking is the amount of mana the stone is consuming in order to maintain connection to the largest throng of
+Ailak Stone (The southmost island, Frxal, meaning Heart).
+
+Ailak Stones can be synthesized with other Ailak stones so that their resonation will center upon the main ailak stone.

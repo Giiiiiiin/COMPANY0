@@ -1,0 +1,2 @@
+Hunter Enchanter Class weapon. Marbles that have been enchanted as vessels. May or may not possess movement/othr oriented
+activation enchants.

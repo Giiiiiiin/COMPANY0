@@ -1,0 +1,3 @@
+“O Wind, change the currents of your gentle breeze, become the draft that alerts me of your presence. Exploration in a swift sweep; turn the expanse inside out and return the lay of the land. Scout’s Breath.”
+
+It is a spell that traces out the area around the caster at a flat range of 20 meters. This value may increase or decrease depending on the flow of wind in the area. Going with the wind may increase this range and searching against the wind may decrease this.

@@ -1,0 +1,3 @@
+""
+
+Mid-tier frost spell that creates a moving wall of pointed glaciers

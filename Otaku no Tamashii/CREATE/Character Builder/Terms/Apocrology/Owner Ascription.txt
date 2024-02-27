@@ -1,0 +1,4 @@
+It is a function that uses a blood gem security system to assign one or more owners to a magic item so that only they will 
+be able to use it. It requires blood and some apocrologic tools to register and remove an owner from an item. And when using 
+it, the item collects a small blood sample from the holder. If the blood signature doesn’t match, it will not work. Since 
+blood gems also take in the owner’s mana along with the blood, this prevents any security breaches from blood relatives.

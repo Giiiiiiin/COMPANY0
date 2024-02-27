@@ -1,0 +1,4 @@
+“O Wind, usher your gentle breeze and bring forth a draft, power of the gale. Herald your mystic breath once for conflict and twice for liberty. Zephyr!”
+
+An AoE magic that gathers and compressess air to explode upon the caster's will. The magic can be used to boost others or 
+deal damage to targets depending on the amount of mana applied.

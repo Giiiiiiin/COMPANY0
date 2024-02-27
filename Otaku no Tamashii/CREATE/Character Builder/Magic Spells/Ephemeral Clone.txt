@@ -1,0 +1,8 @@
+“O Light, I am as I desire to be. Standing tall and still, created through falsehoods. Call upon the fire and embed within the power of the blazing sun, follow my word. Ephemeral Clone!”
+
+"O Light, I am as I desire to be. <Action Property>, created through falsehoods. Call upon <Extra Element>, follow my word.
+Ephermal Clone."
+
+An Open Spell
+
+A mid-tier version of the normal Ephermal Clone. A property could be added to the clone making it able to follow an order as well as last longer than usual.
