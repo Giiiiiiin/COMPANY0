@@ -1,5 +1,0 @@
-Requirements: Cinder Cloud (or just get ashes and cinders somehow), Life Lacuna (or just get them to breathe)
-"A"
-
-Creates an area circle where everyone with the caster's embers inside their bodies combust from
-inside-out with flames

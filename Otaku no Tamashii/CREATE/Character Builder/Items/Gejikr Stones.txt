@@ -1,1 +1,0 @@
-Stones that light up a certain color. These colors can change when mana, and a little bit of spirit power is used on it

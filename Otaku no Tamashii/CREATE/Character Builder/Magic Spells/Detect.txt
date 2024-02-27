@@ -1,1 +1,0 @@
-A null magic that uses mana to detect entities. 

@@ -1,3 +1,0 @@
-“Empty space, thou art the void that lacks the color of life. Wish upon mine aid, beseech the wonders of the world, and bethink thy forgotten age. I call upon thee, <Spell Name>. Incarnate.”
-
-Summons a spirit that continuously casts a certain spell.

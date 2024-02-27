@@ -1,5 +1,0 @@
-“O Fire, break free from your cage, exhibit your power. Scorch my path and bring upon a conflagration. Eruption.”
-
-An AoE spell that summons an eruption of flaming inferno from the ground upon contact to target area.
-
-AoE is a straight line and cracks on the ground first appear before erupting.

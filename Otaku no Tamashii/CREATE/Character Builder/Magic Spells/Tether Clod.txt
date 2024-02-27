@@ -1,3 +1,0 @@
-""
-
-Create multiple arcs of earth that bind down a target(s)

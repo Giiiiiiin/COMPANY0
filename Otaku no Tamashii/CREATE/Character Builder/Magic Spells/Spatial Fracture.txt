@@ -1,5 +1,0 @@
-Requirements: Dimensional Layer, Omnidirectional Gravity Pull (repeated low-tier), Structural Synthesis
-
-"A"
-
-Create a space where the force of gravity follows the will of the caster.

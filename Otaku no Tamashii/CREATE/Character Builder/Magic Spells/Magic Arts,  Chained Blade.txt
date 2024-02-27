@@ -1,4 +1,0 @@
-An attack that uses control magic to convert energy/pressure into sound-imbued magic that runs throughout the body of a target
-and solidifies the magic to restrict its movement. A larger target requires more energy. Attempting this attack on a large
-target with only little energy will do nothing as there is either an insufficient amount of energy to cover the whole target's
-body or the target is too powerful to be held by the initial amount of energy.

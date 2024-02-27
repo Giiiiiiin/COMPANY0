@@ -1,2 +1,0 @@
-Grows leaves with green and blue sides. The blue side (input) catches any sound that it hears and repeats is through the
-green side (output) until it is over written.

@@ -1,3 +1,0 @@
-Uses wind magic to knock back all enemies within reach of a sword with a powerful hurricane,
-dealing moderate damage to all caught in it, 
-followed up with a directional change to knock everyone caught in the hurricane.

@@ -1,3 +1,0 @@
-Requirements: Eruption, Paired Hellfire, and Structured Synthesis
-
-A continuous spell that creates Eruptions where the palm is pointed by will.
